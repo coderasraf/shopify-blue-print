@@ -2,7 +2,7 @@
 
 A personal, self-contained career handbook for becoming an elite Shopify App Developer, Shopify Plus Engineer, Solutions Architect and Upwork Top-Rated freelancer.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?logo=shopify&logoColor=white) ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?logo=githubpages&logoColor=white)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Open-2EA44F?logo=githubpages&logoColor=white)](https://coderasraf.github.io/shopify-blue-print/) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?logo=shopify&logoColor=white) ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?logo=githubpages&logoColor=white)
 
 ## Overview
 
